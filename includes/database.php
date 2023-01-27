@@ -1,6 +1,6 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_USER', 'moham');
+define('DB_USER', 'rkm');
 define('DB_PASS', '1244');
 define('DB_NAME', 'blogs');
 
